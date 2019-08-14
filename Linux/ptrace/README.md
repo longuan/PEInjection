@@ -1,0 +1,3 @@
+- <https://blog.xpnsec.com/linux-process-injection-aka-injecting-into-sshd-for-fun/>
+- <https://github.com/W3ndige/linux-process-injection>
+- <https://github.com/gaffe23/linux-inject>
